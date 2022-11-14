@@ -4,6 +4,6 @@ const  calculateDogAge = (puppyAge) =>{
     return console.log(`Your dog is ${Age} years old in dog years!`)
 
 }
-let dog1 = calculateDogAge(5);
-let dog2 = calculateDogAge(12);
+ calculateDogAge(3);
+ calculateDogAge(12);
 
